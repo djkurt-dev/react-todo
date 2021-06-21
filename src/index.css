@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  /* background-color: #23292F; */
+  background-image: url(./outrun-neon-dark-background-purple-2560x1440-4523.jpg);
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
