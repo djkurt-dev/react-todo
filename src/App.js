@@ -1,5 +1,10 @@
 import React, { useState, useEffect } from 'react';
-import './App.css';
+import './styles/App.scss';
+import './styles/Form.scss';
+import './styles/Todo.scss';
+import './styles/TodoList.scss';
+import './styles/TodoNav.scss';
+import './styles/NavList.scss';
 import TodoNav from './components/TodoNav';
 import TodoList from './components/TodoList';
 import Form from './components/Form';

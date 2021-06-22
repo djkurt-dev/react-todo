@@ -1,0 +1,24 @@
+.todo-card {
+    background-color: #FA21EB;
+    color: #23292F;
+    border-radius: 50px;
+    .todo-text {
+        margin-top: 5px;
+        margin-left: 20px;
+        font-size: 30px;
+        align-self: center;        
+    }
+    .completed {
+        text-decoration: line-through;
+    }
+    .complete-btn, .delete-btn {
+        border-radius: 50px;
+        color: #23292F;
+    } 
+    .far,.fas:hover {
+        cursor: pointer;
+    }
+}
+  .todo-card:hover {
+    cursor: pointer;
+  }
