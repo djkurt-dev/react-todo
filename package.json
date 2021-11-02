@@ -1,6 +1,6 @@
 {
   "homepage": "https://djkurt-dev.github.io/todo-list",
-  "name": "my-todo",
+  "name": "todo-list",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
